@@ -1,0 +1,111 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: url(img/bulb.jpg);
+  background-size: 100%;
+  height: 985px;
+  background-repeat: no-repeat;
+}
+.left {
+  color: aquamarine;
+  position: absolute;
+  left: 50px;
+  top: 15px;
+}
+.right {
+  position: absolute;
+
+  right: 30px;
+  top: 30px;
+}
+.btn {
+  border: 2px solid rgb(156, 28, 26);
+  border-radius: 1px;
+  color: crimson;
+  background-color: transparent;
+  font-size: 20px;
+  font-family: "Roboto Slab", serif;
+  font-weight: 520px;
+}
+.btn:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: orangered;
+}
+.mid {
+  font-family: "Roboto Slab", serif;
+  margin: 20px auto;
+  display: block;
+  width: 50%;
+}
+.navbar {
+  display: inline-block;
+}
+.navbar li {
+  display: inline-block;
+}
+.navbar a {
+  color: rgb(173, 115, 48);
+  text-decoration: none;
+  padding: 35px 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+.navbar a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+img {
+  width: 75px;
+  opacity: 100;
+}
+.name {
+  text-align: center;
+  font-weight: bolder;
+  color: rgb(60, 171, 236);
+  font-size: 15px;
+  position: absolute;
+  top: 80px;
+}
+.container {
+  font-family: "Roboto Slab", serif;
+  border: 5px solid rgb(173, 115, 48);
+  display: block;
+  position: absolute;
+  left: 60px;
+  top: 500px;
+  width: 40%;
+  padding: 10px;
+}
+.container h2 {
+  color: rgb(240, 219, 219);
+  text-align: center;
+  font-size: 33px;
+}
+.form {
+  padding-left: 100px;
+}
+.form input {
+  padding-left: 10px;
+  margin: 12px;
+  width: 300px;
+  font-size: 25px;
+  border: 2px solid white;
+  border-radius: 10px;
+  display: inline-block;
+}
+.submit {
+  font-family: "Roboto Slab", serif;
+  padding-left: 10px;
+  position: absolute;
+  right: 15px;
+  bottom: 5px;
+  font-size: 21px;
+  color: white;
+  background-color: crimson;
+}
+.submit:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: grey;
+}
