@@ -1,6 +1,6 @@
 # 💪 Fitness Hub Gym Website
 
-A dynamic and motivational gym website designed to showcase fitness facilities, training programs, and membership information. Built with HTML and CSS to provide an energetic and engaging user experience.
+A sleek, single-page gym website designed to showcase fitness facilities and enable easy contact with potential members. Built with HTML and CSS, featuring an engaging layout and contact form.
 
 ## 🔗 Live Website
 [Visit the website](https://gym-ehshan.netlify.app/)
@@ -8,43 +8,25 @@ A dynamic and motivational gym website designed to showcase fitness facilities, 
 ## ⚡ Features
 
 ### Homepage
-- Eye-catching hero section
-- Membership plans
-- Featured programs
-- Trainer profiles
-- Motivational content
-- Quick registration options
+- Engaging hero section with fitness imagery
+- Contact form for inquiries
 
-### Design Elements
-- High-energy color scheme
-- Fitness-focused imagery
-- Clean and modern layout
-- Responsive design
-- Interactive elements
-- Call-to-action buttons
+### Contact Form
+- Easy-to-use inquiry form
+- Name and contact information fields
+- Message section
+- Submit button
+- Clean and intuitive design
 
 ## 🛠️ Technologies Used
 
 - HTML5
   - Semantic structure
-  - Modern elements
-  - Optimized markup
+  - Form elements
+  - Modern markup
 - CSS3
   - Flexbox layout
-  - CSS Grid
-  - Custom animations
-  - Responsive design
-  - Media queries
-
-## 🎯 Key Sections
-
-- About Our Gym
-- Training Programs
-- Class Schedules
-- Membership Options
-- Trainer Profiles
-- Success Stories
-- Contact Information
+  - Custom styling
 
 ## 💻 Project Structure
 
@@ -52,32 +34,10 @@ A dynamic and motivational gym website designed to showcase fitness facilities, 
 gym-website/
 │
 ├── index.html          # Main HTML file
-├── styles/
-│   └── style.css      # Main stylesheet
-├── images/            # Image assets
-│   ├── hero/
-│   ├── trainers/
-│   ├── programs/
-│   └── facilities/
-└── README.md          # Project documentation
+├── style.css           # Main stylesheet
+├── .img                # Image assets
+└── README.md           # Project documentation
 ```
-
-## 📱 Responsive Design
-
-- Mobile-friendly layout
-- Tablet optimization
-- Desktop compatibility
-- Flexible image scaling
-- Adaptive navigation menu
-
-## 🌟 Website Highlights
-
-- Professional and energetic design
-- Easy navigation
-- Fast loading performance
-- Optimized for all devices
-- User-friendly interface
-- Clear call-to-action elements
 
 ## 👨‍💻 Author
 
